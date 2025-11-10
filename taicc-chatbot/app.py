@@ -272,7 +272,7 @@ def login_screen():
 def question_screen():
     st.sidebar.title("TAICC")
     st.sidebar.markdown("AI Transformation Partner")
-    st.title("AI Readiness Assessment")
+    st.title("AI Ignite")
     st.markdown("Rate your organization on these factors.")
 
     domain = st.session_state.selected_domain
